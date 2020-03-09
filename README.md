@@ -1,2 +1,2 @@
 # SI-Estacionamento
-Sistema de informação para gerenciamento de estacionamento
+Projeto de informatização de gestão de entrada, saída e permanência de veículos em estacionamento.
